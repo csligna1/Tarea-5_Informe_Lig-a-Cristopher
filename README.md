@@ -10,21 +10,22 @@
 
 **2. MARCO TEÓRICO (RESUMEN)**
  
+ https://www.canva.com/design/DAFV0kTZdNI/y2kh_SXnqA_SdLSxRPPc6Q/view?utm_content=DAFV0kTZdNI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 **RESUMEN CAPITULO - 9**
 
+[![1.jpg](https://i.postimg.cc/sfKLwYCV/1.jpg)](https://postimg.cc/fkt5b0bF)
 
 **RESUMEN CAPITULO - 10**
+
+[![2.jpg](https://i.postimg.cc/2SJRT4vq/2.jpg)](https://postimg.cc/rDSPwRfc)
+
+[![3.jpg](https://i.postimg.cc/d1wW91Wk/3.jpg)](https://postimg.cc/3yfC8KQY)
 
 
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 **EJERCICIOS CAPITULO - 9**
-
-**AUTOEVALUACIÓN**
-
-
-
 
 **PROBLEMAS**
 
