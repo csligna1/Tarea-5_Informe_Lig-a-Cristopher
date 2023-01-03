@@ -85,6 +85,8 @@ Conocer las distintas características del campo magnético, y sus aplicaciones.
 
 **25. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31.**
 
+[![25.jpg](https://i.postimg.cc/Y9t25fv8/25.jpg)](https://postimg.cc/94NjT9tq)
+
 **SECCIÓN 9–4 MÉTODO DEL VOLTAJE EN NODOS**
 
 **27. ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real de la corriente.**
