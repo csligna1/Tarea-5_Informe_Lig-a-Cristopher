@@ -126,6 +126,11 @@ Para determinar una magnitud total, hay que tener en cuenta, que primero se debe
 
 **6. BIBLIOGRAFÍA**
 
+Endesa. (02 de Septiembre de 2016). Recuperado el 20 de Diciembre de 2022, de https://www.fundacionendesa.org/es/educacion/endesa-educa/recursos/que-es-el-electromagnetismo#:~:text=El%20campo%20magn%C3%A9tico%20es%20la,del%20polo%20sur%20al%20norte.
+
+
+McAllister, W. (30 de Octubre de 2019). El método de la corriente de malla. Obtenido de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method
+
 
 
 
