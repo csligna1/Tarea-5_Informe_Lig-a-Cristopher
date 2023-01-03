@@ -37,11 +37,19 @@ Conocer las distintas características del campo magnético, y sus aplicaciones.
 
 **1. Con el método de sustitución, resuelva el siguiente conjunto de ecuaciones para IR1 e IR2 .**
 
+[![1.jpg](https://i.postimg.cc/rsLS54b4/1.jpg)](https://postimg.cc/sQwQrM3f)
+
 **3. Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:**
+
+[![3.jpg](https://i.postimg.cc/k5b6w4Wv/3.jpg)](https://postimg.cc/qtpvvpbN)
 
 **5. Evalúe cada uno de los determinantes:**
 
+[![5.jpg](https://i.postimg.cc/j2ZLCJrt/5.jpg)](https://postimg.cc/q66k5qR5)
+
 **7. Resuelva para I1 , I2 , I3 en el siguiente conjunto de ecuaciones con determinantes:**
+
+[![7.jpg](https://i.postimg.cc/nznF7c2z/7.jpg)](https://postimg.cc/PLFnnHBs)
 
 **9. Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora.**
 
@@ -49,17 +57,29 @@ Conocer las distintas características del campo magnético, y sus aplicaciones.
 
 **11. Escriba la ecuación de la corriente de Kirchhoff para la asignación de corriente mostrada en el nodo A en la figura 9-26.**
 
+[![11.jpg](https://i.postimg.cc/rmTmJ9Vq/11.jpg)](https://postimg.cc/FfPNF3k6)
+
 **13. Determine la caída de voltaje entre los extremos de cada resistor mostrado en la figura 9-26 e indique la polaridad real.**
 
+[![13.jpg](https://i.postimg.cc/W1RPg1bv/13.jpg)](https://postimg.cc/w7kPdHmf)
+
 **15. En la figura 9-27, determine el voltaje entre las terminales de la fuente de corriente (puntos A y B).**
+
+[![15.jpg](https://i.postimg.cc/jS6Bf6FH/15.jpg)](https://postimg.cc/Wd39LZjz)
 
 **SECCIÓN 9–3 MÉTODO DE LA CORRIENTE EN LAZOS**
 
 **17. Con el método de la corriente en lazos, determine las corrientes en los lazos que aparecen en la figura 9-28.**
 
+[![17.jpg](https://i.postimg.cc/jC0kwC63/17.jpg)](https://postimg.cc/m1jSKL57)
+
 **19. Determine los voltajes y sus polaridades apropiadas en cada uno de los resistores mostrados en la figura 9-28.**
 
+[![19.jpg](https://i.postimg.cc/Dy17CXNZ/19.jpg)](https://postimg.cc/56Ncy6bd)
+
 **21. Resuelva para las corrientes de lazo en la figura 9-29 con su calculadora.**
+
+[![21.jpg](https://i.postimg.cc/ydwzj1Xc/21.jpg)](https://postimg.cc/Hc4KsCNk)
 
 **23. Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30.**
 
