@@ -109,7 +109,18 @@
 
 **25. Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema 24. Trace una gráfica del voltaje contra el tiempo para mostrar cómo aparece el voltaje de salida. Sea de 10 V el voltaje máximo.**
 
+**4. VIDEO**
 
+
+
+**5. CONCLUSIONES**
+
+El simplificar circuitos eléctricos es escencial, e importante debido a que se pueden simplificar elementos, conociendo sus fórmulas, y distintas magnitudes de manera mas sencilla, y en estos capítulos resultó importante conocer los distintos métodos, para conocer de forma mas simplificada circuitos sin alterar sus resultados, y optimizando el tiempo.
+
+Para determinar una magnitud total, hay que tener en cuenta, que primero se deben hallar las demás magnitudes totales, ya que no se pueden trabajar con valores individuales, ya que esto produciría errores analíticos, y además es necesario conocer las fórmulas simplificadas y sus derivados, debido que en la práctica resultan muy importantes, pero en el caso de divisores de corriente o de voltaje hay que tener mas análisis y criterio.
+
+
+**6. BIBLIOGRAFÍA**
 
 
 
