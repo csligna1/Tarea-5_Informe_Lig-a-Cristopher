@@ -107,39 +107,39 @@ Conocer las distintas características del campo magnético, y sus aplicaciones.
 
 **SECCIÓN 10–1 EL CAMPO MAGNÉTICO**
 
-**1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?**
+**2.En cierto campo magnético, el área de sección transversal es de 0.5 m2 y el flujo es de 1500 μWb. ¿Cuál es la densidad de flujo?**
 
-**3. ¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500 X 10^26 T y el área de sección transversal mide 150 cm2 ?**
+**4. En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de flujo en teslas.**
 
-**5. Un imán permanente muy fuerte tiene un campo magnético de 100,000 mT. Exprese esta densidad de flujo en gauss.**
+**6. ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través del conductor se invierte?**
 
 **SECCIÓN 10–2 ELECTROMAGNETISMO**
 
-**7. ¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de 750 3 1026 Wb/At·m?**
+**8. Determine la reluctancia de un material con longitud de 0.28my área de sección transversal de 0.08m^2si la permeabilidad absoluta es de 150×10^(-7)Wb/At*m**
 
-**9. ¿Cuál es la fuerza magnetomotriz en una bobina de 50 vueltas de hilo cuando hay 3 A de corriente a través de él?**
+**10. De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?**
 
 **SECCIÓN 10–3 DISPOSITIVOS ELECTROMAGNÉTICOS**
 
-**11. (a) ¿Qué fuerza mueve el émbolo de imán cuando se activa un solenoide? (b) ¿Qué fuerza hace que el émbolo de imán regrese a su posición de reposo?**
+**12. Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando el interruptor 1 (SW1) se cierra.**
 
-**13. ¿Qué ocasiona que la aguja instalada en un movimiento de d’Arsonval se deflexione cuando circula corriente a través de la bobina?**
+**14. ¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0,2 m?**
 
 **15. ¿Cómo se puede cambiar la densidad de flujo en la figura 10-44 sin alterar las características físicas del núcleo?**
 
-**17. Determine a partir de las curvas de histéresis mostradas en la figura 10-45 qué material tiene más retentividad.**
+**16. En la figura 10-44, hay 500 vueltas. Determine(a) H (b) ∅ (c) B**
 
 **SECCIÓN 10–5 INDUCCIÓN ELECTROMAGNÉTICA**
 
-**19. ¿Cuáles son los tres factores que determinan el voltaje en un conductor que se mueve en dirección perpendicular al campo magnético?**
+**18. De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de cambio del flujo magnético se duplica?**
 
-**21. ¿Cómo complementa la ley de Lenz a la ley de Faraday?**
+**20. Un campo magnético cambia a razón de 3500x10^-3 Wb/s. ¿Cuánto voltaje se induce en una bobina de 500 vueltas colocada en el campo magnético?**
 
 **SECCIÓN 10–6 APLICACIONES DE LA INDUCCIÓN ELECTROMAGNÉTICA**
 
-**23. Explique el propósito del conmutador y de las escobillas en la figura 10-35.**
+**22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?**
 
-**25. Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema 24. Trace una gráfica del voltaje contra el tiempo para mostrar cómo aparece el voltaje de salida. Sea de 10 V el voltaje máximo.**
+**24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?**
 
 **4. VIDEO**
 
