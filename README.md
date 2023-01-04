@@ -83,6 +83,8 @@ Conocer las distintas características del campo magnético, y sus aplicaciones.
 
 **23. Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30.**
 
+[![23.jpg](https://i.postimg.cc/pLh6X79r/23.jpg)](https://postimg.cc/yDKPLLyC)
+
 **25. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31.**
 
 [![25.jpg](https://i.postimg.cc/Y9t25fv8/25.jpg)](https://postimg.cc/94NjT9tq)
@@ -91,11 +93,15 @@ Conocer las distintas características del campo magnético, y sus aplicaciones.
 
 **27. ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real de la corriente.**
 
+[![27.jpg](https://i.postimg.cc/qR0bwv16/27.jpg)](https://postimg.cc/5H7SNbdf)
+
 **29. Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura 9-33.**
+
+[![29.jpg](https://i.postimg.cc/FzHPtn59/29.jpg)](https://postimg.cc/34zjm1x6)
 
 **31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y los voltajes en cada nodo desconocido en la figura 9-35.**
 
-
+[![31.jpg](https://i.postimg.cc/CKpmMKTr/31.jpg)](https://postimg.cc/QFSp0hMc)
 
 **PROBLEMAS**
 
