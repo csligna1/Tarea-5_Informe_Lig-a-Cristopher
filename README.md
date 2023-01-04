@@ -109,37 +109,59 @@ Conocer las distintas características del campo magnético, y sus aplicaciones.
 
 **2.En cierto campo magnético, el área de sección transversal es de 0.5 m2 y el flujo es de 1500 μWb. ¿Cuál es la densidad de flujo?**
 
+[![2.jpg](https://i.postimg.cc/C1t6FjGy/2.jpg)](https://postimg.cc/ftcvCSq5)
+
 **4. En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de flujo en teslas.**
 
+[![4.jpg](https://i.postimg.cc/dQbSpjQr/4.jpg)](https://postimg.cc/fkvK0X9R)
+
 **6. ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través del conductor se invierte?**
+
+[![6.jpg](https://i.postimg.cc/cHVXqdW0/6.jpg)](https://postimg.cc/9RYGZ5zn)
 
 **SECCIÓN 10–2 ELECTROMAGNETISMO**
 
 **8. Determine la reluctancia de un material con longitud de 0.28my área de sección transversal de 0.08m^2si la permeabilidad absoluta es de 150×10^(-7)Wb/At*m**
 
+[![8.jpg](https://i.postimg.cc/rpH9WqKx/8.jpg)](https://postimg.cc/67dRxJVp)
+
 **10. De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?**
+
+[![10.jpg](https://i.postimg.cc/nr4K67TG/10.jpg)](https://postimg.cc/bSv2nZ7Z)
 
 **SECCIÓN 10–3 DISPOSITIVOS ELECTROMAGNÉTICOS**
 
 **12. Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando el interruptor 1 (SW1) se cierra.**
 
+[![12.jpg](https://i.postimg.cc/TYcq0VKR/12.jpg)](https://postimg.cc/fJJ9T07F)
+
 **14. ¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0,2 m?**
 
-**15. ¿Cómo se puede cambiar la densidad de flujo en la figura 10-44 sin alterar las características físicas del núcleo?**
+[![14.jpg](https://i.postimg.cc/t4CdMs6F/14.jpg)](https://postimg.cc/bsW2GN3v)
 
 **16. En la figura 10-44, hay 500 vueltas. Determine(a) H (b) ∅ (c) B**
+
+[![16.jpg](https://i.postimg.cc/VNJqz2D6/16.jpg)](https://postimg.cc/kVd6cYr3)
 
 **SECCIÓN 10–5 INDUCCIÓN ELECTROMAGNÉTICA**
 
 **18. De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de cambio del flujo magnético se duplica?**
 
+[![18.jpg](https://i.postimg.cc/Xqbdcq3G/18.jpg)](https://postimg.cc/7GK5qx5w)
+
 **20. Un campo magnético cambia a razón de 3500x10^-3 Wb/s. ¿Cuánto voltaje se induce en una bobina de 500 vueltas colocada en el campo magnético?**
+
+[![20.jpg](https://i.postimg.cc/VLzXJJD2/20.jpg)](https://postimg.cc/c65vjLqc)
 
 **SECCIÓN 10–6 APLICACIONES DE LA INDUCCIÓN ELECTROMAGNÉTICA**
 
 **22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?**
 
+[![22.jpg](https://i.postimg.cc/7YX00qRh/22.jpg)](https://postimg.cc/4m7YTRsR)
+
 **24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?**
+
+[![24.jpg](https://i.postimg.cc/T1f55sqn/24.jpg)](https://postimg.cc/ftqR6BPb)
 
 **4. VIDEO**
 
